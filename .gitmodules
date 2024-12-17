@@ -1,6 +1,0 @@
-[submodule "project_archiving"]
-	path = project_archiving
-	url = https://github.com/kimuum/project_archiving.git
-[submodule "config"]
-	path = config
-	url = https://github.com/kimuum/project_archiving.git
